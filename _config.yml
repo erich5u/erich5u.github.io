@@ -2,33 +2,25 @@
 name: "Alisa & Eric's Space"
 title: "Alisa & Eric's Space"
 description: "I will take you on the fabulous world of exploration. Travel, culture, lifestyle. Eat, Pray, Love!"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+logo: 'assets/images/love.png'
+favicon: 'assets/images/love.png'
 baseurl: ''
-google_analytics: 'UA-xxxxxxxx-1'
-disqus: 'demowebsite'
+disqus: 'website'
 include: ["_pages"]
 permalink: /:title/
-email: wowthemesnet@gmail.com
 
 # Authors
 authors:
   sal:
-    name: Sal
-    display_name: Sal
+    name: zmj
+    display_name: zmj
     avatar: 'assets/images/avatar-sal.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/donate/
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Memoirs, a Bootstrap Medium styled template available for Jekyll. You are currently previewing Jekyll template demo."
+    description: "小噜噜."
   john:
-    name: John
-    display_name: John    
+    name: xx
+    display_name: xx    
     avatar: 'assets/images/avatar.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "Write a short description of the author here. You are currently previewing Memoirs demo, a Jekyll template compatible with Github pages."
+    description: "饲养员."
 
 # Plugins
 plugins:
