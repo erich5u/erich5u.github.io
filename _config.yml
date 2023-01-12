@@ -1,7 +1,7 @@
 # Site
 name: "Alisa & Eric's Space"
 title: "Alisa & Eric's Space"
-description: "I will take you on the fabulous world of exploration. Travel, culture, lifestyle. Eat, Pray, Love!"
+description: "Welcome to Alisa & Eric's Space! We look forward to sharing our memories with you here."
 logo: 'assets/images/love.png'
 favicon: 'assets/images/love.png'
 baseurl: ''
@@ -11,15 +11,15 @@ permalink: /:title/
 
 # Authors
 authors:
-  sal:
+  zmj:
     name: zmj
     display_name: zmj
-    avatar: 'assets/images/avatar-sal.png'
+    avatar: 'assets/images/zmj.jpg'
     description: "小噜噜."
-  john:
+  xx:
     name: xx
     display_name: xx    
-    avatar: 'assets/images/avatar.png'
+    avatar: 'assets/images/xx.jpg'
     description: "饲养员."
 
 # Plugins
